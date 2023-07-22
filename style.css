@@ -1,0 +1,32 @@
+
+.bg-color{
+    background-color: #050030;
+    ;
+}
+.img-card{
+background-color: rgba(99, 89, 182, 0.19) !important;
+;
+}
+
+.card-bg-color{
+    background-image: linear-gradient(279.11deg, #A3D9D9 -23.08%, #5151D5 104.13%);
+}
+.btn-color{
+    background-color:#8C8CDA !important;
+    ;
+}
+.img-widht{
+    border-image-width: 200px !important;
+    height: 100px !important;
+}
+
+.img-card-color{
+    background-color: #13124F;
+}
+.t-color{
+    color: #A3D9D9 !important;
+}
+
+.padding{
+    padding-top: 90px !important;
+}
